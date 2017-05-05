@@ -24,7 +24,7 @@ header('location: products.php');
            <main>
         <div class="container">
             <div class="row">
-                <div class="col-xs-4 col-xs-offset-4">
+                <div class="col-md-4  col-md-offset-4 col-xs-10 col-xs-offset-1">
                     <h2> SIGNUP </h2>
                     <form action="signup_script.php" method="POST">
                         <div class="form-group">
