@@ -25,6 +25,7 @@ $select_result = mysqli_query($con,$select_query) or die(mysqli_error($con));
         ?>
         <main>
         <div class="container" >
+            <h2>CART</h2>
             <div class="table-responsive ">
                 <table class="table table-bordered">
                         <?php
