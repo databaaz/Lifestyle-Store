@@ -23,7 +23,7 @@ if(!isset($_SESSION['email']))
         ?>
         <main>
         <div class="container">
-            <div class="col-xs-4 col-xs-offset-4">
+            <div class="col-md-4  col-md-offset-4 col-xs-10 col-xs-offset-1">
                 <h2>Change Password</h2>
                 <form method='POST' action="settings_script.php">
                     <div class="form-group">
