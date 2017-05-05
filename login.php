@@ -22,7 +22,7 @@ require 'includes/common.php';
         <main>
          <div class="container login-container">
             <div class="row">
-                <div class="col-xs-4  col-xs-offset-4">
+                <div class="col-md-4  col-md-offset-4 col-xs-10 col-xs-offset-1">
                     <div class="panel panel-primary">
                         <div class="panel-heading">
                             <h4>LOGIN</h4>
